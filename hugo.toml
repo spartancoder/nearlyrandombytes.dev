@@ -1,0 +1,4 @@
+baseURL = 'https://nearlyrandombytes.dev/'
+languageCode = 'en-us'
+title = 'nearlyrandombytes.dev'
+theme = 'hermit-V2'
